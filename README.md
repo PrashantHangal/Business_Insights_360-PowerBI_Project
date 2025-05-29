@@ -112,3 +112,33 @@ Use of Star Schema and Snowflake schema, for drafting meaningful relationship be
 <p align="center">
   <img src="https://github.com/PrashantHangal/Business_Insights_360-PowerBI_Project/blob/main/Executive_view.jpg?raw=true" alt="Home" width="100%" />
 </p>
+
+
+**Power BI Features:**
+
+1.Creating calcualted columns and DAX measures
+
+2.Data Modelling ,data validation techniques and using KPI indicators
+
+3.Using bookmarks to switch between two visuals and conditional formatting
+
+4.Page navigation with buttons
+
+5.Using tooltips to save page area
+
+6.Dynamic titles based on the applied filters
+
+7.PowerBI services for publishing and sharing reports online
+
+8.Auto refresh setup for data through gateway
+
+
+
+
+
+
+
+
+
+
+
