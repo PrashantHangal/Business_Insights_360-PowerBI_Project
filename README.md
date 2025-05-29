@@ -34,7 +34,7 @@ Leverage Power BI to enhance data analytics capabilities, addressing key metrics
 
 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧 for Automatic data refresh in PowerBI service.
 
-**About Dataset:** - Four years transactional data (sep 2017-dec2021), contains around 1.85 Million records. Dimension tables of customer, product, dates, market. And Fact tables of monthly sales, forecast monthly sales data.
+**About Dataset:** - Four years transactional data (sep 2017-dec2021), contains around 1.85 Million records. Dimension tables of customer, product, dates, market. And Fact tables of monthly sales, forecast monthly sales data. Organization Financial Year (FY) is from september to august.
 - Data sources: MS Excel files and MySQL database files.
 - Products are divisioned as PC, P&A, N&S And product selling channels to consumers are Retailer, Direct & Distributor. 
   
